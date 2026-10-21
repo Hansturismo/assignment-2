@@ -58,11 +58,12 @@ main {
   /* margin: 0.2rem 0 0.2rem 0; */
 }
 
+
 .flex-container__column {
   display: flex;
   flex: 0 1 auto;
   flex-direction: column;
-  justify-content: start;
+  justify-content: center;
   align-items: stretch;
   max-width: 100%;
   min-width: 100%;

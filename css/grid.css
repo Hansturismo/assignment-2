@@ -12,7 +12,7 @@
   display: grid;
   position: relative;
   justify-content: center;
-  max-width: 200rem;
+  max-width: 100%;
   min-width: auto;
   grid-template-columns: repeat(auto-fit, minmax(15.5rem, 15.5rem));
   gap: 1rem;
