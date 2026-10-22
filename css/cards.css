@@ -61,7 +61,6 @@
   stroke: whitesmoke;
   height: 100%;
   outline: none;
-  /* justify-content: center; */
 }
 
 .member-portrait__border {
@@ -74,7 +73,6 @@
 }
 
 .member-id {
-  /* border-bottom: 1px solid black; */
   font-size: var(--font-size-large);
   color: var(--font-color-bright);
   z-index: 3;
