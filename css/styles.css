@@ -75,7 +75,7 @@ main {
   position: absolute;
   inset: 0;
   opacity: 60%;
-  background-image: url(../assets/images/backgrounds/DSG\ Apex\ Header.png);
+  background-image: url("../assets/images/backgrounds/DSG-Apex-Header.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
